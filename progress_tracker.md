@@ -8,4 +8,4 @@
 |2026-02-28|7:59 a.m.|74,5|/|/|/|/|/|/|Today is a regeneration day. It's every Wednesday and Saturday. But only for sport.|
 |2026-03-01|9:02 a.m.|74,4|3|10|/|/|/|10sek|knee hurts. mission: lose weight. I have an Idea. I'M going to do the wall sit excersize.|
 |2026-03-02|6:40 a.m.|75,1|10|7|/|/|/|30s|knee hurts. mission: lose weight|
-|2026-03-03|6:20 a.m.|74,0|10|7|/|/|/|30s|knee hurts. mission: lose weight|
+|2026-03-03|6:20 a.m.|74,0|1|20|/|/|/|1min|knee hurts. mission: lose weight|
