@@ -12,4 +12,5 @@
 |2026-03-04|5:45 a.m.|73,7|0|0|/|/|/|0min|(it's a recovery day) knee hurts. extra mission: Wallsit 3x45s|
 |2026-03-05|5:45 a.m.|73,7|0|0|/|/|/|0s|knee hurts. mission: lose weight|
 |2026-03-06|6:27 a.m.|74,1|0|5|/|/|/|0s|knee hurts. mission: lose weight|
+|2026-03-07|9:28 a.m.|75,0|0|0|/|/|/|0s|regeneration day. Tomorrow i'll try to go run|
 
