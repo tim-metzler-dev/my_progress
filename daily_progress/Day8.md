@@ -2,7 +2,7 @@
 Like Jim Rohn said: 
 	"Any day you wish you could change your life."
 
-##Today I learned:
+## Today I learned:
 	1. You describe your website with: <meta name="description" content="The things about your website to help SEO"/> You should do this so people can find you.
 	2. You describe how people see a social media link of your website with:
 		a. <meta property="og:type" content="this defines the type of your website.(book, article, website…"/>
