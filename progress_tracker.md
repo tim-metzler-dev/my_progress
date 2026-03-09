@@ -14,4 +14,4 @@
 |2026-03-06|6:27 a.m.|74,1|0|5|/|/|/|0s|knee hurts. mission: lose weight|
 |2026-03-07|9:28 a.m.|75,0|0|0|/|/|/|0s|regeneration day. Tomorrow i'll try to go run|
 |2026-03-08|4:30 a.m.|76.4|2|10|/|1,02|8:29|I won't try squats but tomorrow i'll run too|
-
+|2026-03-09|4:30 a.m.|76.3|5|10|/|1,02|8:44|Knee hurts a bit but i'll try tomorrow!|
