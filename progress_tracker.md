@@ -18,4 +18,5 @@
 |2026-03-10|4:30 a.m.|74.6|4|10|/|/|/|today my knee hurted but I found an bicycle for indoor on the outside. I'll train with it!|
 |2026-03-11|5:30 a.m.|73.4|0|0|/|/|/|0s|So today is regenerationday. Tomorrow is the cycle training.|
 |2026-03-12|6:00 a.m.|74.3|4|10|/|/|/|0s|The cycle training: I did my first three kilometers. Don't wonder. I'll use the space where I write down running for bycycling.|
-|2026-03-13|6:00 a.m.|74.1|0|0|/|/|/|0s|Todaz I did 1h of bike riding with 20km.|
+|2026-03-13|6:00 a.m.|74.1|0|0|/|/|/|0s|Today I did 1h of bike riding with 20km.|
+|2026-03-14|7:00 a.m.|73.5|0|0|/|/|/|0s|Today I did 1h of bike riding with 22km.|
