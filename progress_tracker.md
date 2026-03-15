@@ -20,3 +20,4 @@
 |2026-03-12|6:00 a.m.|74.3|4|10|/|/|/|0s|The cycle training: I did my first three kilometers. Don't wonder. I'll use the space where I write down running for bycycling.|
 |2026-03-13|6:00 a.m.|74.1|0|0|/|/|/|0s|Today I did 1h of bike riding with 20km.|
 |2026-03-14|7:00 a.m.|73.5|0|0|/|/|/|0s|Today I did 1h of bike riding with 22km.|
+|2026-03-15|9:00 a.m.|73.9|0|0|/|/|/|0s|Today I did nothing. I fell a bit sick but I'll try to be fit soon!|
