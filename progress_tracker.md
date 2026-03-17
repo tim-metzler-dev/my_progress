@@ -22,3 +22,4 @@
 |2026-03-14|7:00 a.m.|73.5|0|0|/|/|/|0s|Today I did 1h of bike riding with 22km.|
 |2026-03-15|9:00 a.m.|73.9|0|0|/|/|/|0s|Today I did nothing. I fell a bit sick but I'll try to be fit soon!|
 |2026-03-16|6:30 a.m.|73.4|0|0|/|/|/|0s|Today I feel a bit better but also not that great!|
+|2026-03-17|6:33 a.m.|75.1|0|0|/|/|/|0s|Today I feel a bit better but I'm getting fat and soft again. Guess I'll have to start again losing weight!|
