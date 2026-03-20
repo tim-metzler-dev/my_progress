@@ -25,3 +25,4 @@
 |2026-03-17|6:33 a.m.|75.1|0|0|/|/|/|0s|Today I feel a bit better but I'm getting fat and soft again. Guess I'll have to start again losing weight!|
 |2026-03-18|5:30 a.m.|75.1|0|0|/|/|/|0s|Today I feel better. In a few days I'll start doing bicycling!|
 |2026-03-19|5:30 a.m.|75.7|0|10|/|/|/|0s|Tomorrow is the big trying day! So I think I'll start with diet.|
+|2026-03-20|7:30 a.m.|75.0|0|30|/|/|/|0s|I did 1:06 hours of bicycling and it was hard but also possible!|
