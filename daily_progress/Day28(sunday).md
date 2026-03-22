@@ -1,4 +1,5 @@
 I used the form and fieldset element and I learned about the span element wich you can use instead of the label element.
+I made this in 35min. I copyed the casio checkout protockol because today I bought a casio GBD-200-1.
 
 
 <!DOCTYPE html>
