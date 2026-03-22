@@ -27,3 +27,4 @@
 |2026-03-19|5:30 a.m.|75.7|0|10|/|/|/|0s|Tomorrow is the big trying day! So I think I'll start with diet.|
 |2026-03-20|7:30 a.m.|75.0|0|30|/|/|/|0s|I did 1:06 hours of bicycling and it was hard but also possible!|
 |2026-03-21|9:30 a.m.|74.7|0|0|/|/|/|0s|Today was regeneration day. Okay I know last days wasn't that much but yes.|
+|2026-03-22|9:00 a.m.|75.3|0|0|/|/|/|0s|Today I did nothing... But I have made a new diet and start tomorrow. So be ready!|
