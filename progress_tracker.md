@@ -28,3 +28,4 @@
 |2026-03-20|7:30 a.m.|75.0|0|30|/|/|/|0s|I did 1:06 hours of bicycling and it was hard but also possible!|
 |2026-03-21|9:30 a.m.|74.7|0|0|/|/|/|0s|Today was regeneration day. Okay I know last days wasn't that much but yes.|
 |2026-03-22|9:00 a.m.|75.3|0|0|/|/|/|0s|Today I did nothing... But I have made a new diet and start tomorrow. So be ready!|
+|2026-03-23|6:30 a.m.|75.1|0|0|/|/|/|0s|I started with diet and with a dopamine detox. Waking up earlier is the next step. Today my goals are 20k steps and 1h Cardio on the bike!|
