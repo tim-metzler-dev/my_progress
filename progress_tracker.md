@@ -30,3 +30,4 @@
 |2026-03-22|9:00 a.m.|75.3|0|0|/|/|/|0s|Today I did nothing... But I have made a new diet and start tomorrow. So be ready!|
 |2026-03-23|6:30 a.m.|75.1|0|0|/|/|/|0s|I started with diet and with a dopamine detox. Waking up earlier is the next step. Today my goals are 20k steps and 1h Cardio on the bike!|
 |2026-03-24|6:30 a.m.|74.4|0|0|/|/|/|0s|My Casio G-Shock is arriving today. What a good reason to start waking up early!|
+|2026-03-25|4:30 a.m.|75.7|0|0|/|/|/|0s|Today I did 1h of cycling, and 15k steps. I know it's recovery day, but I did nothing this week.|
