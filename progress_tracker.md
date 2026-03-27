@@ -32,4 +32,4 @@
 |2026-03-24|6:30 a.m.|74.4|0|0|/|/|/|0s|My Casio G-Shock is arriving today. What a good reason to start waking up early!|
 |2026-03-25|4:30 a.m.|75.7|0|0|/|/|/|0s|Today I did 1h of cycling, and 15k steps. I know it's recovery day, but I did nothing this week.|
 |2026-03-26|4:30 a.m.|75.1|0|10|/|/|/|0s|Today I did 1h of cycling, and 12k steps. Let's continue the jurney! I also did 1.5min of wallsit.|
-|2026-03-27|4:30 a.m.|74.5|0|0|/|/|/|0s|I did an half hour of cycling this morning and then I went to bed again for 1,25h. I was very tired.|
+|2026-03-27|4:30 a.m.|74.5|0|0|/|/|/|0s|I did an half hour of cycling this morning and then I went to bed again for 1,25h. I was very tired. I have 15k steps in total today. Right now I did the second half hour of cycling and somehow it felt great. I think I understood something importent in the second seccion: It's not about the athletic activity. It's about the pain that we surrive and limits that we break while building mental callus!|
