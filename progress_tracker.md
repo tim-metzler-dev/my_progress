@@ -38,3 +38,4 @@
 |2026-03-30|4:00 a.m.|75.5|0|0|/|/|/|0s|I did 1h of cycling today and made 12k steps. I have made (or started) a new sleep rythm and I'm going to wake up at 4 a.m. in the next time.!|
 |2026-03-31|4:00 a.m.|74.5|0|0|/|/|/|0s|I di 40min of cycling today but somehow my knee started hurting while cycling. I made 9k steps!|
 |2026-04-01|4:00 a.m.|74.0|0|0|/|/|/|0s|I made 15k steps!|
+|2026-04-02|5:30 a.m.|75.2|0|0|/|/|/|0s|...|
