@@ -1,7 +1,7 @@
 We are officially 40 days in! To everyone who is trying the same thing: Just start. And continue no matter how small the day is just continue, because repitition beats one big day!
 I started completely without knowing GitHub and didn't even watched any video I just started. And you can do the same!
 
-# Day 30
+# Day 40
 Like Dale Carnegie said: 
 "If you are not in the process of becoming the person you want to be, you are automatically engaged in becoming the person you don't want to be."
 
