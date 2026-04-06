@@ -42,3 +42,4 @@
 |2026-04-03|7:30 a.m.|74.5|0|0|/|/|/|0s|Oh! Haha forgot to fill notes in yesteray! Today I did 6k steps and I have vacation and it feels very great and relaxing. But I will continue waking up early!!|
 |2026-04-04|4:00 a.m.|74.5|0|0|/|/|/|0s|I made 40min of bicycling and 16k steps today!|
 |2026-04-05|4:00 a.m.|74.5|0|0|/|/|/|0s|I made 60min of bicycling but one tension less. I made it at tension 2 instead of 3. I also made 6k steps today! So I had 4 hours of sleep and than did till 7am some sport and went to bed again.|
+|2026-04-06|4:00 a.m.|74.7|0|0|/|/|/|0s|I made 60min of bicycling with the same tension as yesterday. I also made 13k steps today! So I had 5 hours of sleep and than did till 5:30am some sport and went to bed again.|
