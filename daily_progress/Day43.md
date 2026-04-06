@@ -1,5 +1,5 @@
 # Day 43
-
+Like Robert Kiyosaki said: "Your future is created by what you do today, not tomorrow."
 
 ## Today I learned:
 1. To make subtitles and captions in HTML for video or audio, you can use the track element. It's inside the tag of video or audio.:
