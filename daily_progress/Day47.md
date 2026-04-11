@@ -11,8 +11,7 @@ Like Dwayne Johnson said:
 		- In this example the file is style.css but of course you will have to add other css files too.
 	2. The basic CSS syntax is like this:
 		selector {
-  property: value;
-}
+  property: value;}
 			The selector is the element you want to style. In 3. you will have more informations.
 			There are much propertys. For example: Background-coulor, width, heigt…
 	3. We have three types of selectors:
