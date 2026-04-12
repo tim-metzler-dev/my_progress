@@ -2,6 +2,7 @@
 So today I added CSS. When I opened the file I wanted to add a track element. I made a vvt doc and noticed, that I used Iframe!
 I made a darkmode for bungu and changed some bugs.
 I will make this also in future codes as .html (saturday and sunday)
+I noticed, that if I make .html it only will show code. To see the full result, you can download the css stylesheet too. 
 
 <!DOCTYPE html>
 <html lang="en">
