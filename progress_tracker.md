@@ -54,3 +54,4 @@
 |2026-04-15|06:07 a.m.|73.7|0||/|/|/|0s|I holded diet, no SM and hitting 15k steps while 14 hours of fasting.|
 |2026-04-16|06:40 a.m.|74.4|0||/|/|/|0s|I holded diet, no SM and hitting 10k steps while 10 hours of fasting.|
 |2026-04-17|06:45 a.m.|74.4|0||/|/|/|0s|No SM and hitting 7k steps while 10 hours of fasting.|
+|2026-04-18|09:45 a.m.|74.3|0||/|/|/|0s|Only 3k steps. Starting dopamine detox|
