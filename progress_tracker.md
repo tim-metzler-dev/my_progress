@@ -57,4 +57,5 @@
 |2026-04-18|09:45 a.m.|74.3|0||/|/|/|0s|Only 3k steps. Starting dopamine detox|
 |2026-04-19|09:52 a.m.|74.5|0||1.01|6:04|/|0s|So today I used AI and WhatsApp but the other parts of a true dopamine detox I hoded. I made 5k steps. My knee hurts now after the running. It was in the rain, but I was very motivated at the end, because I was so fast (for me)!|
 |2026-04-20|06:30 a.m.|74.0|0||/|/|/|0s|So I didn't used AI, and also didn't watched tv or used social media (ok WA). But I holded my diet and made 10k steps.|
-|2026-04-21|06:50 a.m.|73.9|0||/|/|/|0s|So I didn't used AI and nearly holded my diet. I made 10k steps.|
+|2026-04-21|06:50 a.m.|73.9|0||/|/|/|0s|So I used AI and nearly holded my diet. I made 10k steps.|
+|2026-04-22|06:50 a.m.|73.9|0||/|/|/|0s|Holded my diet and made 15k steps. Holding detox (but ate sweets).|
