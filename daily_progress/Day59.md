@@ -1,7 +1,7 @@
 Like Jeff Bezos said:
   "Where you are going to spend your time and your energy is one of the most important decisions you get to make in life."
 
-## Tosay I learned:
+## Today I learned:
  1. I learned about margin and padding. Margins control the space outside an element and padding the space inside the element. They will be defined with px
       I. There are four margines:
         "margin-top"
