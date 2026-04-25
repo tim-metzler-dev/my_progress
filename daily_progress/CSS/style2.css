@@ -1,0 +1,32 @@
+#page {
+    margin: auto;
+    width: 80%;
+        background-color: #F5F1E8;
+}
+h1, h2, caption, dt, p, label, legend, th, tr, td, dd, figcaption, ul, ol, h3 {
+    text-align: center;
+}
+img, iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    margin-bottom: 20px;
+}
+a {
+    color: #4CB8A8;
+}
+label, input, textarea, select, button {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+rt {
+    margin-top: 30px;
+}
+button {
+    margin-bottom: 20px;
+    background-color: #4CB8A8;
+    color: #F5F1E8;
+}
