@@ -61,3 +61,4 @@
 |2026-04-22|06:50 a.m.|73.9|0||/|/|/|0s|Made 15k steps. Holding detox (but ate sweets).|
 |2026-04-23|05:40 a.m.|75.3|0||/|/|/|0s|So today I made 10k steps.|
 |2026-04-24|06:40 a.m.|75.3|0||/|/|/|0s|So today I made 10k steps again.|
+|2026-04-25|09:40 a.m.|74.6|0||/|/|/|0s|Today I holded my diet. I ate 1kg of potato. Without salt etc. I also used OMAD(one meal a day) and I want to eat very much now! I also made 8k steps.|
