@@ -65,3 +65,4 @@
 |2026-04-26|09:50 a.m.|72.5|0||/|/|/|0s|So the potato diet was very good. But today I didn't Holded it and many other things. But I'm going to wake up tomorrow at 4.|
 |2026-04-27|04:00 a.m.|73.6|0||/|/|/|0s|I used AI to discuss short keypoints of a speech. But without that I holded dopamine detox. I also made 10k steps. I didn't holded the potato diet but I stayed in my calories. Great day!|
 |2026-04-28|04:00 a.m.|73.8|0||/|/|/|0s|Today I didn't used AI, made 15k steps and nearly made dopamine detox (I looked at watches). I didn't holded the diet but I holded OMAD(one meal a day). I'll try running tomorrow.|
+|2026-04-29|05:15 a.m.|73.9|5|/|/|3.00|26:15|1min|I made 3km and 19k steps. The 3km were very hard and everything hurted!|
