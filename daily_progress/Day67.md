@@ -8,7 +8,7 @@ Like Miyamoto Musashi said:
       I. The most powerfull element is style="..."  inside HTML.
          (1,0,0,0)
      II. The second powerfull element is an ID as selector (#... {})
-         (0,1,0,0)Wies
+         (0,1,0,0)
     III. The third powerfull are classes (.class {}), attributes and things like :hover
          (0,0,1,0)
      IV. The fourth powerfull are tags (like p)
