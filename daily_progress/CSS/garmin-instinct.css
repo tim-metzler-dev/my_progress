@@ -1,0 +1,39 @@
+body {
+    background-color: #C2B280;
+}
+
+.menu {
+    width: 100%;
+    background-color: #5A5A5A;
+    height: 60px;
+}
+.directions {
+    display: inline-block;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#first {
+    margin-left: 17.5%;
+}
+#last {
+    margin-right: 17.5%;
+}
+.text {
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+    margin:auto;
+}
+a:link {
+    color: black;
+}
+a:visited {
+    color: black;
+}
+a:focus {
+    color: #4CB8A8;
+}
+a:hover {
+    color: whitesmoke;
+}
