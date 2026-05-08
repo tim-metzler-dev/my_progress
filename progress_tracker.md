@@ -74,3 +74,4 @@
 |2026-05-05|06:26 a.m.|74.2|0|/|/|4.00|26:18|0s|20k steps and a 4km run. It felt good!|
 |2026-05-06|05:40 a.m.|74.7|0|/|/|||0s|Today recovery day. My garmin arrived.|
 |2026-05-07|05:40 a.m.|75.7|0|/|/|||0s|I made 9k steps.|
+|2026-05-08|06:40 a.m.|75.3|0|/|/|||0s|I made 9k steps. I also climbed 28 floors. I made a reading plan with audio-books that is based on repetition!|
