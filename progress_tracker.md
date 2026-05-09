@@ -75,3 +75,4 @@
 |2026-05-06|05:40 a.m.|74.7|0|/|/|||0s|Today recovery day. My garmin arrived.|
 |2026-05-07|05:40 a.m.|75.7|0|/|/|||0s|I made 9k steps.|
 |2026-05-08|06:40 a.m.|75.3|0|/|/|||0s|I made 9k steps. I also climbed 28 floors. I made a reading plan with audio-books that is based on repetition!|
+|2026-05-09|08:40 a.m.|73.8|0|/|/|||0s|So today was an easy day with 7.5k steps.|
