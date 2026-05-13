@@ -79,3 +79,4 @@
 |2026-05-10|08:30 a.m.|75.3|0|/|/|||0s|Today I didn't did much. Just 2500 steps. I bought the audiobooks. I'll use them with the repeating strategy.|
 |2026-05-11|06:40 a.m.|74.9|0|/|/|||0s|Today I heard 2 hours of the book and made 11.6k steps.|
 |2026-05-12|06:40 a.m.|74.4|0|/|/|||0s|I made 18.5k steps. So you have to understand that the lowest body battery garmin shows is five. And I had it since 1h15. So I will go to bed at 10pm with a 5 body battery.|
+|2026-05-13|05:40 a.m.|76.3|0|/|/|2.00|15:02|0s|Today I ran. My average pulse was 178. It was hard! My knee hurts. I also made 15k steps.|
