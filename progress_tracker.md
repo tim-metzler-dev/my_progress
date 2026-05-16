@@ -81,4 +81,5 @@
 |2026-05-12|06:40 a.m.|74.4|0|/|/|||0s|I made 18.5k steps. So you have to understand that the lowest body battery garmin shows is five. And I had it since 1h15. So I will go to bed at 10pm with a 5 body battery.|
 |2026-05-13|05:40 a.m.|76.3|0|/|/|2.00|15:02|0s|Today I ran. My average pulse was 178. It was hard! My knee hurts. I also made 15k steps.|
 |2026-05-14|08:20 a.m.|76.2|0|/|/|1.07|9:30|0s|Today I ran 5 of these minutes and walked 4:30. My average pulse was 151. My knee hurted a bit but less.I also made 7.5kk steps. I ate a bit much today but have a perfect diet for tomorrow.|
-|2026-05-15|08:05 a.m.|76.6|0|/|/|||0s|So I made 10k steps and also  holded mz new diet.|
+|2026-05-15|08:05 a.m.|76.6|0|/|/|||0s|So I made 10k steps and also  holded my new diet.|
+|2026-05-16|09:05 a.m.|74.0|0|/|/|||0s|So I made 11k steps. I didn't holded my diet but I made a new one without OMAD.|
