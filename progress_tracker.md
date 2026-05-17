@@ -83,3 +83,4 @@
 |2026-05-14|08:20 a.m.|76.2|0|/|/|1.07|9:30|0s|Today I ran 5 of these minutes and walked 4:30. My average pulse was 151. My knee hurted a bit but less.I also made 7.5kk steps. I ate a bit much today but have a perfect diet for tomorrow.|
 |2026-05-15|08:05 a.m.|76.6|0|/|/|||0s|So I made 10k steps and also  holded my new diet.|
 |2026-05-16|09:05 a.m.|74.0|0|/|/|||0s|So I made 11k steps. I didn't holded my diet but I made a new one without OMAD.|
+|2026-05-17|08:05 a.m.|74.5|0|/|/|1.17|9:07|0s|So I made 11k steps. I think I'll start with a new type of dopamien detox. If I want to watch something I'll have to bike with at least puls 115. I ran 5 minutes and with an average pace of 6:29 (it was hard on the garmin) I made 0,77km while running.|
