@@ -85,3 +85,4 @@
 |2026-05-16|09:05 a.m.|74.0|0|/|/|||0s|So I made 11k steps. I didn't holded my diet but I made a new one without OMAD.|
 |2026-05-17|08:05 a.m.|74.5|0|/|/|1.17|9:07|0s|So I made 11k steps. I think I'll start with a new type of dopamien detox. If I want to watch something I'll have to bike with at least puls 115. I ran 5 minutes and with an average pace of 6:29 (it was hard on the garmin) I made 0,77km while running.|
 |2026-05-18|09:05 a.m.|75.5|0|/|/|||0s|Today I made 11.5k steps. Today I had my garmin and gbd 200 from start of the day on my body but my casio shows 12.75k steps and my garmin 11.5k. Strange! But tomorrow I'll weight more. I took the past of least resistance today! I also broke dopamine detox. But tomorrow a rund and retrying dopamine detox with diet.|
+|2026-05-19|06:40 a.m.|76.2|0|/|/|||0s| I made 15k steps. I wanted to run today but had 5 body battery at the moment till now.|
