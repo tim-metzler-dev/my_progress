@@ -87,4 +87,5 @@
 |2026-05-18|09:05 a.m.|75.5|0|/|/|||0s|Today I made 11.5k steps. Today I had my garmin and gbd 200 from start of the day on my body but my casio shows 12.75k steps and my garmin 11.5k. Strange! But tomorrow I'll weight more. I took the past of least resistance today! I also broke dopamine detox. But tomorrow a rund and retrying dopamine detox with diet.|
 |2026-05-19|06:40 a.m.|76.2|0|/|/|||0s| I made 15k steps. I wanted to run today but had 5 body battery at the moment till now.|
 |2026-05-20|05:50 a.m.|76.6|0|/|/|||0s|I had a low battery so I didn't ran. It also was 5 since 5pm (it is 8:15 now). I'll go to bed earlier. I holded dopamine detox (DD in future, Body battery BB) but didn't holded my diet plan. But I will go back on the road!|
-|2026-05-21|085:50 a.m.|77.1|0|/|/|||0s|It is start of the day. Today will be a regenerationday- less steps!|
+|2026-05-21|05:50 a.m.|77.1|0|/|/|||0s|It is start of the day. Today will be a regenerationday- less steps! I had 5k steps.|
+|2026-05-22|06:50 a.m.|76.2|0|/|/|||0s|I didn't had my garmin on and didn't counted steps. I mean it was a good day. Tomorrow 3:30 a.m.! So yes I will do it! But my phone sais 11k steps.|
