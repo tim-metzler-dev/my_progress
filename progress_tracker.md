@@ -89,4 +89,5 @@
 |2026-05-20|05:50 a.m.|76.6|0|/|/|||0s|I had a low battery so I didn't ran. It also was 5 since 5pm (it is 8:15 now). I'll go to bed earlier. I holded dopamine detox (DD in future, Body battery BB) but didn't holded my diet plan. But I will go back on the road!|
 |2026-05-21|05:50 a.m.|77.1|0|/|/|||0s|It is start of the day. Today will be a regenerationday- less steps! I had 5k steps.|
 |2026-05-22|06:50 a.m.|76.2|0|/|/|||0s|I didn't had my garmin on and didn't counted steps. I mean it was a good day. Tomorrow 3:30 a.m.! So yes I will do it! But my phone sais 11k steps.|
-|2026-05-23|03:30 a.m.|76.2|0|/|/|||0s|Haha 3:30a.m! I'm going to do day 90 now. I have so much time!|
+|2026-05-23|03:30 a.m.|76.2|0|/|/|||0s|Haha 3:30a.m! I'm going to do day 90 now. I have so much time! I have 10k steps!|
+|2026-05-24|07:40 a.m.|77.8|0|/|/|||0s|Today I woke up with 23 body battery. At 14:20pm my body battery was at 5. Till now (it is 23:20pm). I made 20k steps and climbed 92 floors with an 5kg backpack while 27 degrees celcius!|
