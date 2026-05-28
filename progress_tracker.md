@@ -94,3 +94,4 @@
 |2026-05-25|09:15 a.m.|77.6|0|/|/|||0s|Okay. Cold shower-30s and I made 6k steps. Tomorrow early again. I'll go for 3:30 a.m.|
 |2026-05-26|03:30 a.m.|77.6|0|/|/|4.89|48:26|0s|So 3:30 in the morning! At 4:40 I  had 7.5k steps and a body battery of 47.|
 |2026-05-27|05:40 a.m.|78.2|0|/|/|||0s|I made 15k steps and my body battery is 5 since 8h|
+|2026-05-28|05:40 a.m.|77.3|0|/|/|||0s|I  made 10.5k steps and have since 6h a body battery of 5.|
