@@ -1,0 +1,20 @@
+body {
+  max-width: 650px;
+  margin: 0 auto;
+    background-color: #EEEEEE;
+}
+p, li, blockquote {
+  line-height: 1.4;
+}
+* {
+  color: #444444;
+}
+a:link {
+  color: #8BB8E8;
+}
+a:active {
+  color: orange;
+}
+.small {
+  font-size: 0.4em;
+}
