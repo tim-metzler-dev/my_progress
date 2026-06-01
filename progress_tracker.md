@@ -98,3 +98,4 @@
 |2026-05-29|06:30 a.m.|77.0|0|/|/|||0s|I made 11k steps and and only ate healthy food. That means no sweets etc.|
 |2026-05-30|07:30 a.m.|76.3|0|/|/|||0s|Today I made 15k steps and also had a great day.|
 |2026-05-31|10:05 a.m.|77.5|0|/|/|||0s|So yeah. I cleaned my room and made 5k steps. I'm nearly ready with cleaning. My body battery regenaretes good. Now at 10pm it is 12|
+|2026-06-01|06:45 a.m.|77.0|0|/|/|||0s|I made 12.5k steps and I have a body battery of 8 now (20:25pm). Tomorrow starting with the daily vlogs!|
