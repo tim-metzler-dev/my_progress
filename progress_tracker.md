@@ -100,5 +100,6 @@
 |2026-05-31|10:05 a.m.|77.5|0|/|/|||0s|So yeah. I cleaned my room and made 5k steps. I'm nearly ready with cleaning. My body battery regenaretes good. Now at 10pm it is 12|
 |2026-06-01|06:45 a.m.|77.0|0|/|/|||0s|I made 12.5k steps and I have a body battery of 8 now (20:25pm). Tomorrow starting with the daily vlogs!|
 |2026-06-02|06:40 a.m.|77.5|0|20|/|3.23|26:15|0s|So today I ran and made 20k steps. First day of daily vlogging.|
-|2026-06-03|05:40 a.m.|78.6|0|20|/|||0s|11k steps first real daily vlog. I didn't wore Garmin today|
-|2026-06-04|05:40 a.m.|77.9|0|20|/|||0s|I don't know how many steps but I think 8k. But today I got my GA-2100CC-3A and it is my new favourite watch! I love it!|
+|2026-06-03|05:40 a.m.|78.6|0|0|/|||0s|11k steps first real daily vlog. I didn't wore Garmin today|
+|2026-06-04|05:40 a.m.|77.9|0|0|/|||0s|I don't know how many steps but I think 8k. But today I got my GA-2100CC-3A and it is my new favourite watch! I love it!|
+|2026-06-05|06:40 a.m.|77.5|0|0|/|||0s|So I am going to make todays vlog. And I'm going to watch jumanji today.|
