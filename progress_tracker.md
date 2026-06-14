@@ -110,4 +110,5 @@
 |2026-06-10|05:40 a.m.|77.6|0|0|/|||0s|Okay. I got a new pair of raybans and am very tired. It is my first one. I have 11.5k steps.|
 |2026-06-11|05:40 a.m.|79.7|0|0|/|||0s|I'm fucking fat! Today I dieted the whole day and didn't ate much. I made 13k stepss.|
 |2026-06-12|06:43 a.m.|77.5|0|0|/|||0s|I think I made 12k steps. Today I go to a theater and it will be very late but I still will have to program and also vlog. So tomorrow clearly no early morning! 😅|
-
+|2026-06-13|10:35 a.m.|76.8|0|0|/|||0s|I made a review in the cinema for the day. I think I just didn't saved it.|
+|2026-06-14|04:30 a.m.|78.4|0|0|/|||0s|I don't know. Tomorrow not early again.|
