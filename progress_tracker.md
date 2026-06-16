@@ -113,3 +113,5 @@
 |2026-06-13|10:35 a.m.|76.8|0|0|/|||0s|I made a review in the cinema for the day. I think I just didn't saved it.|
 |2026-06-14|04:30 a.m.|78.4|0|0|/|||0s|I don't know. Tomorrow not early again.|
 |2026-06-15|06:38 a.m.|77.0|0|0|/|||0s|Okay. So till now I didn't hold my diet but didn't used AI. I made till now 9.5k steps. Okay so now I have 20k steps. Tomorrow early again!|
+|2026-06-16|06:30 a.m.|79.5|0|0|/|||0s|35min of running without walking. So yeah. I'm very tired!|
+
