@@ -116,4 +116,5 @@
 |2026-06-16|06:30 a.m.|79.5|0|0|/|||0s|35min of running without walking. So yeah. I'm very tired!|
 |2026-06-17|05:40 a.m.|79.2|0|0|/|||0s|Right. SO today I just didn't used AI. Tomorrow starting with the potato diet. I'll do it for 1 day. I have to be disciplined till saturday that I'm going to eat at a grill day and after that locked in aagain! I'm going to hamburg from monday on so for 5 days no weight. Maybe that's good but I think I'll get fat. Haha|
 |2026-06-18|05:30 a.m.|78.4|0|0|/|||0s|So today 14k steps and yes.|
+|2026-06-19|06:30 a.m.|77.8|0|0|/|||0s|11.618k steps today. I didn't used AI and also didn't used shorts.|
 
