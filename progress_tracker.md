@@ -120,4 +120,5 @@
 "A videogame is only  interresting because of the sidequests. If there weren't any it wouldn't be good. For life the same rule applies. To live happy you have to have sidequests. 
 Life is only an added number of moments wich decide how worthy your life is. And sidequest count more than most people think."|
 |2026-06-20|08:30 a.m.|78.4|0|0|/|||0s|Today I grilled. I just got home and am sooooo tired! Damn!|
+|2026-06-21|10:30 a.m.|78.1|0|0|/|||0s|Okay. Today I wasn't very focused today and this is why it's hard to programm. (was)|
 
