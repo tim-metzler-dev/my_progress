@@ -126,4 +126,5 @@ Life is only an added number of moments wich decide how worthy your life is. And
 |2026-06-24|08:00 a.m.|--.-|0|/|/|||0s|I made 26.5k steps today and was in a fun park. |
 |2026-06-25|07:30 a.m.|--.-|0|/|/|||0s|I made 25k steps and  just yes. I ate chocolate.|
 |2026-06-26|07:00 a.m.|--.-|0|/|/|||0s|So yeah. Just very tired I'm going to bed. Chiao!|
+|2026-06-27|11:20 a.m.|79.4|0|/|/|||0s|Yeah. I woke up very late and getting home late too. So waking up early I think 4:30 and starting diet.|
 
