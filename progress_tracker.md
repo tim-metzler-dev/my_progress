@@ -128,4 +128,5 @@ Life is only an added number of moments wich decide how worthy your life is. And
 |2026-06-26|07:00 a.m.|--.-|0|/|/|||0s|So yeah. Just very tired I'm going to bed. Chiao!|
 |2026-06-27|11:20 a.m.|79.4|0|/|/|||0s|Yeah. I woke up very late and getting home late too. So waking up early I think 4:30 and starting diet.|
 |2026-06-28|09:30 a.m.|79.4|0|/|/|||0s|Yes tomorrow 4:30 a.m.|
+|2026-06-29|04:30 a.m.|79.1|0|/|/|||0s|I was awake a bit but tired and slept till 6:25. I made 45min indoor bycicling at avg bpm 133 and climbed 24 floors.|
 
