@@ -134,4 +134,5 @@ Life is only an added number of moments wich decide how worthy your life is. And
 |2026-07-02|06:50 a.m.|80.0|0|/|/|||0s|Okay. So today 10k steps and yeah. Just got my new dji pocket 3 and it's great! You can doo so much.|
 |2026-07-03|07:10 a.m.|79.1|0|/|/|||0s|Yeah. I'm going to vacation now. 16k steps but the surelly will be more!|
 |2026-07-04|08:00 a.m.|80.6|0|/|/|||0s|I'm fat! Dang. I'm in vacation now. Think about getting whoop. I have 14k steps.|
+|2026-07-05|09:30 a.m.|79.5|0|/|/|||0s|Today walking through jungles haha no but through some tough terrain with 13k steps there and in total 14k.|
 
