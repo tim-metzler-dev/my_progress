@@ -1,0 +1,1 @@
+Okay so the last days (ok today and yesterday) I only used my phone for this. I went to bed and then this thing appeared! (in my head) daily programming. In the next days I'm going to try to program. Now I'm just tired. See you tomorrow!
