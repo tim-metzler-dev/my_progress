@@ -136,4 +136,5 @@ Life is only an added number of moments wich decide how worthy your life is. And
 |2026-07-04|08:00 a.m.|80.6|0|/|/|||0s|I'm fat! Dang. I'm in vacation now. Think about getting whoop. I have 14k steps.|
 |2026-07-05|09:30 a.m.|79.5|0|/|/|||0s|Today walking through jungles haha no but through some tough terrain with 13k steps there and in total 14k.|
 |2026-07-06|09:30 a.m.|79.9|0|/|/|||0s|22.5k s my legs hurted from the first on because of yesterday.|
+|2026-07-07|07:30 a.m.|80.6|0|/|/|||0s|20k steps going so late to bed. I use my phone too much. I'll use it less after I get home on Sunday.|
 
