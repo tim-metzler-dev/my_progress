@@ -142,5 +142,6 @@ Life is only an added number of moments wich decide how worthy your life is. And
 |2026-07-10|08:30 a.m.|80.2|0|/|/|||0s|I made 10k steps|
 |2026-07-11|06:48 a.m.|--.-|0|/|/|||0s|I made 16.5k steps but ate much|
 |2026-07-12|09:48 a.m.|80.5|0|/|/|||0s|Yesterday I've got my whoop. Now I'm just preparing for bed 4:30 and the detx-grind. This is one of the biggest projects in my life till now. I think I will change!|
+|2026-07-13|08:00 a.m.|81.2|0|/|/|||0s|So today pretty good. I had 1 usage of dopamine things (Google) that I didn't needed but I'll be better tomorrow and tomorrow for real 4:30!|
 
 
