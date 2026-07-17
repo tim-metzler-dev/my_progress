@@ -146,5 +146,6 @@ Life is only an added number of moments wich decide how worthy your life is. And
 |2026-07-14|08:10 a.m.|79.2|0|/|/|2.03|17:40|0s|Okay no for real. But at least I ran.|
 |2026-07-15|10:20 a.m.|78.3|0|/|/|||0s|Fun story. I wanted to make 2h in zone 2 but didn't found my watch haha... So yeah. I will wake up at 3:50 tomorrow to shoot some shots and then just go to slepp again.|
 |2026-07-16|12:19 a.m.|78.9|0|/|/|||0s|I made 30min in zone avg heartrate was 131 but I ended it 6:40min to late. |
+|2026-07-17|11:07 a.m.|79.0|0|/|/|||0s|So yeah. Today I personalysed my tripod. That's pretty much all|
 
 
