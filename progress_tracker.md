@@ -149,5 +149,8 @@ Life is only an added number of moments wich decide how worthy your life is. And
 |2026-07-17|11:07 a.m.|79.0|0|/|/|||0s|So yeah. Today I personalysed my tripod. That's pretty much all|
 |2026-07-18|12:08 a.m.|79.9|0|/|/|||0s|I just optimized my plans for the future. That's pretty much everything. (I know you thought I would write the same as yesterday haha)|
 |2026-07-19|13:01 a.m.|80.0|0|/|/|||0s|I went to sleep 5a.m. yesterday! I will wake up 4:30 tomorrow.|
+|2026-07-20|07:45 a.m.|80.1|0|/|/|||0s|That was a lie! I just watched 60 vlogs of casey. That was everything.|
+|2026-07-21|10:29 a.m.|79.0|0|/|/|||0s|Well till now I just weighted less. See you later!|
+
 
 
