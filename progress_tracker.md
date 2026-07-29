@@ -154,6 +154,13 @@ Life is only an added number of moments wich decide how worthy your life is. And
 |2026-07-22|12:49 a.m.|80.5|0|/|/|||0s|Okay watching so many vlogs is hard!|
 |2026-07-23|13:17 a.m.|80.9|0|/|/|||0s|Same thing!|
 |2026-07-24|12:49 a.m.|80.9|0|/|/|||0s|<haha actually I forgot when I woke up. Just take this.|
+|2026-07-25|xx:xx a.m.|--.-|0|/|/|||0s|How did I forgot so long man! I apologize! I also forgot my weights etc. But that was a lesson I will take it!|
+|2026-07-26|xx:xx a.m.|--.-|0|/|/|||0s|How did I forgot so long man! I apologize! I also forgot my weights etc. But that was a lesson I will take it!|
+|2026-07-27|xx:xx a.m.|--.-|0|/|/|||0s|How did I forgot so long man! I apologize! I also forgot my weights etc. But that was a lesson I will take it!|
+|2026-07-28|xx:xx a.m.|--.-|0|/|/|||0s|How did I forgot so long man! I apologize! I also forgot my weights etc. But that was a lesson I will take it!|
+|2026-07-29|11:15 a.m.|83.7|0|/|/|||0s|So fat!|
+|2026-07-30|10:34 a.m.|82.3|0|/|/|||0s|Weight a bit better!|
+
 
 
 
