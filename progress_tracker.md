@@ -168,6 +168,8 @@ Life is only an added number of moments wich decide how worthy your life is. And
 |2026-08-05|07:49 a.m.|82.1|/|/|/||0s|Today felt great! And I have a fresh start in the new lifestyle. See you tomorrow.|
 |2026-08-06|12:09 a.m.|81.85|/|/|/||0s|I'm tired! So yeah. As you see I wanted to not commit today - thought about quitting and did it!|
 |2026-08-07|11:30 a.m.|81.55|/|/|/||0s|Today I bought 13 new non fiction audiobooks. I bought 3 from Kevin Hart, Alex Hormozi, Rich Dad Poor Dad, How to read people like books, the secret to storytelling  and many more!|
+|2026-08-08|11:24 a.m.|83.15|/|/|/||0s|Today I learned what happens when you give in your wish of watching tv etc. I watched the whole evening!|
+
 
 
 
