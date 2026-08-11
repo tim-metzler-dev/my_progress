@@ -171,6 +171,7 @@ Life is only an added number of moments wich decide how worthy your life is. And
 |2026-08-08|11:24 a.m.|83.15|/|/|/||0s|Today I learned what happens when you give in your wish of watching tv etc. I watched the whole evening!|
 |2026-08-09|07:40 a.m.|84.05|/|/|/||0s|Okay. 96min hiking. Today also used no phone. Tomorrow  making the early morning!|
 |2026-08-10|04:45 a.m.|82.80|/|/|/||0s|35min zone 2 indoor bike session avg bpm were 140. Okay. Propabilly 1km run zone 2 this evening.|
+|2026-08-11|03:45 a.m.|83.10|/|/|/||0s|23min 2km zone 2 run avg bpm was 147. My heart till now isn't made for zone two running. We will start with cycling and walking!|
 
 
 
