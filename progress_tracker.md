@@ -179,6 +179,10 @@ Life is only an added number of moments wich decide how worthy your life is. And
 |2026-08-16|07:30 a.m.|--.--|/|/|/||0s|fairy.|
 |2026-08-17|06:00 a.m.|83.90|/|/|/||0s|waking up was unbeliviabilly hard! Tomorrow going earlier to bed.|
 |2026-08-18|05:30 a.m.|84.25|/|/|/||0s|15k steps 5km zone 2.|
+|2026-08-19|06:30 a.m.|--.--|/|/|/||0s|I weight much! From some day like in maybe 3/4d I'll start weighting and dieting!|
+|2026-08-20|05:30 a.m.|--.--|/|/|/||0s|Just wore a stupid watch.|
+|2026-08-21|05:30 a.m.|--.--|/|/|/||0s|I made like 12k steps|
+|2026-08-22|08:20 a.m.|84.25|/|/|/||0s|Tomorrow is the big moment!|
 
 
 
