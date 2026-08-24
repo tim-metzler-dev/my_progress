@@ -183,7 +183,8 @@ Life is only an added number of moments wich decide how worthy your life is. And
 |2026-08-20|05:30 a.m.|--.--|/|/|/||0s|Just wore a stupid watch.|
 |2026-08-21|05:30 a.m.|--.--|/|/|/||0s|I made like 12k steps|
 |2026-08-22|08:20 a.m.|84.25|/|/|/||0s|Tomorrow is the big moment!|
-
+|2026-08-23|08:20 a.m.|84.25|/|/|/||0s|Yeah.|
+|2026-08-24|05:20 a.m.|86.15|/|/|/||0s|All time fattest!|
 
 
 
