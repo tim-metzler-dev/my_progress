@@ -188,6 +188,8 @@ Life is only an added number of moments wich decide how worthy your life is. And
 |2026-08-25|05:37 a.m.|--.--|/|/|/||0s|I was even scared to weight  myself. No this can't go on like this! COmplete accountability from tomorrow!|
 |2026-08-26|06:31 a.m.|88.15|/|/|/||0s|Hell! What the f? Okay diet! Still 13.5k steps.|
 |2026-08-27|06:38 a.m.|86.25|/|/|/||0s||Okay yeah. Morning|
+|2026-08-28|05:38 a.m.|87.15|/|/|/||0s|I walked and that's it|
+|2026-08-29|09:46 a.m.|85.15|/|/|/||0s|Today I was on a massive cleaning mission and made the half.|
 
 
 
