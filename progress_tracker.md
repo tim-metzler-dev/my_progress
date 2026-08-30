@@ -190,6 +190,8 @@ Life is only an added number of moments wich decide how worthy your life is. And
 |2026-08-27|06:38 a.m.|86.25|/|/|/||0s||Okay yeah. Morning|
 |2026-08-28|05:38 a.m.|87.15|/|/|/||0s|I walked and that's it|
 |2026-08-29|09:46 a.m.|85.15|/|/|/||0s|Today I was on a massive cleaning mission and made the half.|
+|2026-08-30|08:37 a.m.|85.45|/|/|/||0s|So today just 1hqpmin zone 2 indoor bike.|
+
 
 
 
