@@ -191,6 +191,10 @@ Life is only an added number of moments wich decide how worthy your life is. And
 |2026-08-28|05:38 a.m.|87.15|/|/|/||0s|I walked and that's it|
 |2026-08-29|09:46 a.m.|85.15|/|/|/||0s|Today I was on a massive cleaning mission and made the half.|
 |2026-08-30|08:37 a.m.|85.45|/|/|/||0s|So today just 1hqpmin zone 2 indoor bike.|
+|2026-08-31|--:-- a.m.|--.--|/|/|/||0s|Sorry! The last days I mostly concentraded on daily programming but we will change that!|
+|2026-09-01|--:-- a.m.|--.--|/|/|/||0s|Sorry! The last days I mostly concentraded on daily programming but we will change that!|
+|2026-09-02|--:-- a.m.|--.--|/|/|/||0s|Sorry! The last days I mostly concentraded on daily programming but we will change that!|
+|2026-09-03|05:37 a.m.|87.45|/|/|/||0s|I'm back! sports I did too.|
 
 
 
