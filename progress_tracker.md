@@ -195,6 +195,9 @@ Life is only an added number of moments wich decide how worthy your life is. And
 |2026-09-01|--:-- a.m.|--.--|/|/|/||0s|Sorry! The last days I mostly concentraded on daily programming but we will change that!|
 |2026-09-02|--:-- a.m.|--.--|/|/|/||0s|Sorry! The last days I mostly concentraded on daily programming but we will change that!|
 |2026-09-03|05:37 a.m.|87.45|/|/|/||0s|I'm back! sports I did too.|
+|2026-09-04|--:-- a.m.|--.--|/|/|/||0s|Sorry! The last days I mostly concentraded on daily programming but we will change that!|
+|2026-09-05|06:37 a.m.|--.--|/|/|/||0s|I didn't weighted myself.|
+|2026-09-06|08:26 a.m.|88.50|/|/|/||0s|I weighted myself after lunch. Let's start dieting!|
 
 
 
