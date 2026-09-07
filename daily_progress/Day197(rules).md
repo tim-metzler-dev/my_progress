@@ -1,0 +1,1 @@
+You see. Soon it is day 200 yayyy! Big day haha. But the thing is that I have a time plan change. The last 15min I thought about my time plan. At first I decided I wanted to be ready with colors in FreeCodeCamp like the lesson but no. I will be ready at about weekend. I will allow till weekend 15min daily. but after 30min
