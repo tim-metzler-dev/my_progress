@@ -199,6 +199,14 @@ Life is only an added number of moments wich decide how worthy your life is. And
 |2026-09-04|06:37 a.m.|--.--|/|/|/||0s|I didn't weighted myself.|
 |2026-09-05|08:26 a.m.|88.50|/|/|/||0s|I weighted myself after lunch. Let's start dieting!|
 |2026-09-06|09:37 a.m.|85.80|/|/|/||0s|so...|
+|2026-09-07|--:-- a.m.|--.--|/|/|/||0s|Long time no see! I didn't did this here. But I will have to start tracking!!|
+|2026-09-08|--:-- a.m.|--.--|/|/|/||0s|Long time no see! I didn't did this here. But I will have to start tracking!!|
+|2026-09-09|--:-- a.m.|--.--|/|/|/||0s|Long time no see! I didn't did this here. But I will have to start tracking!!|
+|2026-09-10|--:-- a.m.|--.--|/|/|/||0s|Long time no see! I didn't did this here. But I will have to start tracking!!|
+|2026-09-11|--:-- a.m.|--.--|/|/|/||0s|Long time no see! I didn't did this here. But I will have to start tracking!!|
+|2026-09-12|--:-- a.m.|--.--|/|/|/||0s|Long time no see! I didn't did this here. But I will have to start tracking!!|
+|2026-09-13|--:-- a.m.|--.--|/|/|/||0s|Long time no see! I didn't did this here. But I will have to start tracking!!|
+|2026-09-14|05:40 a.m.|88.05|/|/|/||0s|Started tracking. Officially back in the game! Diet started!|
 
 
 
