@@ -208,6 +208,11 @@ Life is only an added number of moments wich decide how worthy your life is. And
 |2026-09-13|--:-- a.m.|--.--|/|/|/||0s|Long time no see! I didn't did this here. But I will have to start tracking!!|
 |2026-09-14|05:40 a.m.|88.05|/|/|/||0s|Started tracking. Officially back in the game! Diet started!|
 |2026-09-15|05:40 a.m.|87.75|/|/|/||0s|13k steps. Holding diet!|
+|2026-09-16|--:-- a.m.|--.--|/|/|/||0s|Long time no see! I didn't did this here. But I will have to start tracking!!|
+|2026-09-17|--:-- a.m.|--.--|/|/|/||0s|Long time no see! I didn't did this here. But I will have to start tracking!!|
+|2026-09-18|--:-- a.m.|--.--|/|/|/||0s|Long time no see! I didn't did this here. But I will have to start tracking!!|
+|2026-09-19|10:40 a.m.|89.45|/|/|/||0s|So. I know I say always same but I thought that I will give my best for the next 20 days. So just trust me. I'll log.|
+
 
 
 
