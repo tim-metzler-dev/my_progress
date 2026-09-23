@@ -214,6 +214,8 @@ Life is only an added number of moments wich decide how worthy your life is. And
 |2026-09-19|--:-- a.m.|--.--|/|/|/||0s|Long time no see! I didn't did this here. But I will have to start tracking!!|
 |2026-09-20|10:40 a.m.|89.45|/|/|/||0s|So. I know I say always same but I thought that I will give my best for the next 20 days. So just trust me. I'll log.|
 |2026-09-21|06:40 a.m.|88.80|/|/|/||0s|Today 34min zone 2. I should be ashamed because I had much more on last week but I will be better tomorrow!! So.11.5k steps right? yes! Diet successfully started!|
+|2026-09-22|05:30 a.m.|88.80|/|/|/||0s|Okay. So today? Didn't hold my diet. But I installed a kcal tracking app so let's see.|
+|2026-09-23|06:30 a.m.|88.90|/|/|/||0s|Ate 1.8kkcal. Okay! Not bad...|
 
 
 
